@@ -10,6 +10,7 @@ public class Armstrongnumber {
 		a.armstrong(370);
 		System.out.println(" program ends ");
 		System.out.println(" created a new branch ");
+		System.out.println(" created a new test ");
 	}
 
 	private void armstrong(int g) {
